@@ -1,4 +1,4 @@
-# ARTIK
+# ARTIC
 
 Augmented Reality Matematik
 
