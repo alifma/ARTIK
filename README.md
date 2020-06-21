@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.ibb.co/HHfdbXB/ico.png" alt="ico" border="0"><p>
 # ARTIC
 
 Augmented Reality Mathematics
