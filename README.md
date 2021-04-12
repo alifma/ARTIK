@@ -15,6 +15,7 @@ Pada Repo ini terdapat Script Yang digunakan dalam mengembangkan aplikasi ini
 - [Team](#team)
 - [Download](#download)
 - [License](#license)
+- [Models](#models)
 
 ## Screenshot
 <p align="center">
@@ -35,6 +36,10 @@ Pada Repo ini terdapat Script Yang digunakan dalam mengembangkan aplikasi ini
 - **VuMarkEvent.cs**
     - Script untuk menampilkan Event Sesuai dengan Vumark
     
+
+## Models
+> Tersedia juga beberap models yang dapat digunakan, silakan gunakan model dari proyek ini, tapi jangan lupa untuk memberikan kredit atau mensintasi artikel ini https://journal.uny.ac.id/index.php/jrpm/article/download/32135/14528
+
 ## Team
 - **Alif Maulan Arifin**
     - Pendidikan Matematika Universitas Sultan Ageng Tirtayasa
